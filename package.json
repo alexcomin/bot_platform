@@ -1,0 +1,22 @@
+{
+  "name": "bot_platform",
+  "version": "0.0.1",
+  "description": "bot platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcomin/bot_platform.git"
+  },
+  "author": "Alex Comin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alexcomin/bot_platform/issues"
+  },
+  "homepage": "https://github.com/alexcomin/bot_platform#readme",
+  "dependencies": {
+    "mongodb": "^3.1.1"
+  }
+}
